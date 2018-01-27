@@ -8,6 +8,7 @@
 
       <siteMapNode url="~/Webpages/Commit1.aspx" title="Commit1"  description="" />
       <siteMapNode url="~/Webpages/Commit2.aspx" title="Commit2"  description="" />
+      <siteMapNode url="~/Webpages/Commit3.aspx" title="Commit3"  description="" />
     </siteMapNode>
 
     <siteMapNode url="~/About.aspx" title="About"  description="" />
