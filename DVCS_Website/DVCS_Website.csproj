@@ -215,6 +215,7 @@
     <Content Include="Webpages\Commit2.aspx" />
     <Content Include="Webpages\Commit3.aspx" />
     <Content Include="Webpages\Commit4.aspx" />
+    <Content Include="Webpages\Commit5.aspx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
@@ -454,6 +455,13 @@
     </Compile>
     <Compile Include="Webpages\Commit4.aspx.designer.cs">
       <DependentUpon>Commit4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Webpages\Commit5.aspx.cs">
+      <DependentUpon>Commit5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Webpages\Commit5.aspx.designer.cs">
+      <DependentUpon>Commit5.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
